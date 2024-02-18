@@ -1,0 +1,26 @@
+font = Fanwood Text
+font-size = 20
+
+outline-width = 0
+border-width = 2
+border-color = #5ff
+padding-left = 0%
+padding-top = 2%
+padding-right = 0
+padding-bottom = 0
+
+background-color = #00000070
+text-color = #f9fbff
+selection-color = #5fe
+selection-background = #00000090
+selection-background-padding = 0,10000
+
+corner-radius = 20
+
+prompt-text = Run:
+prompt-padding = 2%
+
+//width = 40%
+//height = 40%
+
+hide-cursor = true
